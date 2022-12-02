@@ -1,16 +1,20 @@
 import React from 'react'
-import Breadcrumb from '../BreadCrumb/BreadCrumb'
-import Footer from '../Container/Footer/Footer'
-import SEO from '../Container/SEO/SEO'
-import TopNav from '../Container/TopNav/TopNav'
+import BreadCrumb from '../breadCrumb/BreadCrumb'
+import ContactOne from '../container/contactContainer/ContactOne'
+import Footer from '../footer/Footer'
+import Header from '../header/Header'
+import SEO from '../SEO/SEO'
 
-export default function Contact() {
-  return (
-    <React.Fragment>
-      <SEO title="Ngo || Contact Us" />
-      <TopNav />
-      <Breadcrumb image="images/about/herb.jpg" title="Home" content="Contact Us" />
-      <Footer />
-    </React.Fragment>
-  )
+function Contact() {
+    return (
+        <>
+            <SEO title="Rapid Technologies || Contact" />
+            <Header />
+            <BreadCrumb mainTitle="Contact Us" title="Home" text="Contact us" img="/images/banner/bnr1.jpg" />
+            <ContactOne />
+            <Footer />
+        </>
+    )
 }
+
+export default Contact

@@ -1,33 +1,34 @@
-import { HashRouter as Router, Switch, Route, Redirect, useHistory} from "react-router-dom";
-import Home from "./Components/Pages/Home";
+import './App.css';
+import "./assets/css/style.css";
+import "slick-carousel/slick/slick-theme.css";
+import "slick-carousel/slick/slick.css";
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import HomePage from './components/pages/HomePage';
+import About from './components/pages/About';
+import Contact from './components/pages/Contact';
+import Blogs from './components/pages/Blogs';
+import OurClients from './components/pages/OurClients';
+import ServiceDetails from './components/pages/ServiceDetails';
+import Services from './components/pages/Services';
+import Float from './components/floatIcons/Float';
 
-// CSS
-import "./assets/css/Style.css"
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'swiper/swiper-bundle.min.css'
-import AboutNgo from "./Components/Pages/AboutNgo";
-import Contact from "./Components/Pages/Contact";
-import ScrollToTop from "./Components/Pages/ScrollToTop";
-// import About from "./Components/Pages/About";
 
 function App() {
-  const history = useHistory();
-
   return (
-    <div className="App">
-    <Router history={history} basename='/' >
-   <ScrollToTop>
-       <Switch>
-         {/* <Route exact path='/login' component={Login} /> */}
-         <Route exact path='/' component={Home} />
-         <Route path='/about' component={AboutNgo} />
-         <Route path='/contact' component={Contact} />
-         <Redirect from="*" to="/" />
-       </Switch>
-       </ScrollToTop>
-     </Router>
-   
-    </div>
+    <>
+      <Float />
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/services" element={<Services />} />
+          {/* <Route path="/service/details" element={<ServiceDetails />} /> */}
+          <Route path="/our/clients" element={<OurClients />} />
+          <Route path="/blogs" element={<Blogs />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
+      </BrowserRouter>
+    </>
   );
 }
 

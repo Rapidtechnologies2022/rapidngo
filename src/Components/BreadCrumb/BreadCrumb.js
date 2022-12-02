@@ -1,14 +1,24 @@
 import React from 'react'
-export default function Breadcrumb({image,title, content}) {
+import { Link } from 'react-router-dom'
+
+function BreadCrumb({mainTitle,title,text,img}) {
     return (
-        <div>
-            <nav aria-label="breadcrumb">
-                <ol  className="breadcrumb bread_row_bg" style={{backgroundImage: `url(${image})`}}>
-                    <li className="breadcrumb-item "><a className="breadcrumb-list" href="#"> {title} </a>  </li>
-                    <li className="breadcrumb-divider" > {`>`} </li>
-                    <li className="breadcrumb-item active breadcrumb-list" aria-current="page">  {content} </li>
-                </ol>
-            </nav>
+        <div className="dlab-bnr-inr overlay-primary-dark" style={{ "backgroundImage": `url(${img})` }}>
+            <div className="container">
+                <div className="dlab-bnr-inr-entry">
+                    <h1> {mainTitle} </h1>
+                    {/* <!-- Breadcrumb Row --> */}
+                    <nav aria-label="breadcrumb" className="breadcrumb-row">
+                        <ul className="breadcrumb">
+                            <li className="breadcrumb-item"><Link to="/"><a> {title} </a></Link></li>
+                            <li className="breadcrumb-item active" aria-current="page"> {text} </li>
+                        </ul>
+                    </nav>
+                    {/* <!-- Breadcrumb Row End --> */}
+                </div>
+            </div>
         </div>
     )
 }
+
+export default BreadCrumb
