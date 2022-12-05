@@ -9,12 +9,12 @@ function Footer() {
                     <div className="container">
                         <div className="footer-info wow fadeIn" data-wow-duration="2s" data-wow-delay="0.8s">
                             <div className="row align-items-center">
-                                <div className="col-xl-6 col-md-4">
+                                <div className="col-xl-4 col-md-4">
                                     <div className="footer-logo">
-                                        <a href="/"><img src="images/rapid_logo.png" alt="" /></a>
+                                        <a href="/"><img src="images/veniLogo.PNG" alt="" /></a>
                                     </div>
                                 </div>
-                                <div className="col-xl-3 col-md-4 col-sm-6">
+                                <div className="col-xl-4 col-md-4 col-sm-6">
                                     <div className="icon-bx-wraper left m-b10">
                                         <div className="icon-lg">
                                             <a href="javascript:void(0);" className="icon-cell">
@@ -22,7 +22,7 @@ function Footer() {
                                             </a>
                                         </div>
                                         <div className="icon-content">
-                                            <p>+91 9966619759<br />info@rapidtech.com</p>
+                                            <p>+91 9966619759<br />info@venifoundation.com</p>
                                         </div>
                                     </div>
                                 </div>
@@ -44,7 +44,7 @@ function Footer() {
                             <div className="col-xl-3 col-lg-4 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                                 <div className="widget widget_about">
                                     <h5 className="footer-title">About Us</h5>
-                                    <p> Rapid Technologies is an Indian based IT experts who combine an intimate knowledge of today’s cutting edge technologies. </p>
+                                    <p> Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web. </p>
                                     <div className="dlab-social-icon">
                                         <ul>
                                             <li><a className="fa fa-facebook" href="https://en-gb.facebook.com/" target="_blank"></a></li>
@@ -69,10 +69,10 @@ function Footer() {
                                 <div className="widget widget_services">
                                     <h5 className="footer-title">Our Services</h5>
                                     <ul>
-                                        <li><Link to="/services">Web Development</Link></li>
-                                        <li><Link to="/services">Digital Marketing</Link></li>
-                                        <li><Link to="/services">Consulting Services </Link></li>
-                                        <li><Link to="/services">Training & Placement</Link></li>
+                                        <li><Link to="/services">Women Empowerment</Link></li>
+                                        <li><Link to="/services">Child Education</Link></li>
+                                        <li><Link to="/services">Food Donation </Link></li>
+                                        <li><Link to="/services">Medical Support</Link></li>
 
                                     </ul>
                                 </div>
@@ -82,7 +82,7 @@ function Footer() {
                                     <h5 className="footer-title">Other links</h5>
                                     <ul>
                                         <li><Link to="/contact">Contact</Link></li>
-                                        <li><Link to="/our/clients">Our Clients</Link></li>
+                                        <li><Link to="/our/clients">Volunteers</Link></li>
                                         <li><a href="javascript:void(0);">Privacy Policy</a></li>
                                         <li><a href="javascript:void(0);">Terms & Conditions</a></li>
                                     </ul>
@@ -96,7 +96,7 @@ function Footer() {
                     <div className="container">
                         <div className="row">
                             <div className="col-sm-12 text-center">
-                                <span className="copyright-text">Copyright © 2021 <a href="https://rapidtech.com/" target="_blank">Rapid Technologies</a>. All rights reserved.</span>
+                                <span className="copyright-text">Copyright © 2021 <a href="https://venifoundation.com/" target="_blank">Veni Foundation</a>. All rights reserved.</span>
                             </div>
                         </div>
                     </div>

@@ -10645,7 +10645,9 @@ textarea {
     vertical-align: middle;
     max-width: 100%;
     width: auto;
-    height: 30px; }
+    height: 40px; 
+    border-radius: 10px !important;
+  }
 
 .icon-bx-xs {
   display: inline-block;
@@ -11208,9 +11210,11 @@ textarea {
       color: #fff; }
     .icon-bx-wraper.style-5:hover .icon-bx, .icon-bx-wraper.style-5.active .icon-bx {
       background-image: url(../images/pattern/pattern10.png), var(--gradient-sec);
-      background-size: cover, 200%; }
+      background-size: cover, 200%; 
+    }
       .icon-bx-wraper.style-5:hover .icon-bx .icon-cell, .icon-bx-wraper.style-5.active .icon-bx .icon-cell {
-        color: #fff; }
+        color: #fff;
+       }
 .icon-bx-wraper.style-6 {
   padding: 10px 40px; }
   .icon-bx-wraper.style-6 > [class*="icon-bx-"] {

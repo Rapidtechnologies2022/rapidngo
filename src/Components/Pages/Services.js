@@ -1,5 +1,5 @@
 import React from 'react'
-import BreadCrumb from '../breadCrumb/BreadCrumb'
+import BreadCrumb from '../BreadCrumb/BreadCrumb'
 import Features from '../container/homeContainer/Features'
 import ServiceOne from '../container/serviceContainer/ServiceOne'
 import Footer from '../footer/Footer'
@@ -9,9 +9,9 @@ import SEO from '../SEO/SEO'
 function Services() {
     return (
         <>
-            <SEO title="Rapid Technologies || Services" />
+            <SEO title="Rapid Technologies || Our Services" />
             <Header />
-            <BreadCrumb mainTitle="Services" title="Home" text="Services" img="/images/banner/bnr1.jpg" />
+            <BreadCrumb mainTitle="Our Services" title="Home" text="Our Services" img="/images/banner/heart1.jpg" />
             <ServiceOne />
             <Features />
             <Footer />

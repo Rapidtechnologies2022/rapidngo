@@ -1,5 +1,5 @@
 import React from 'react'
-import BreadCrumb from '../breadCrumb/BreadCrumb'
+import BreadCrumb from '../BreadCrumb/BreadCrumb'
 import ContactOne from '../container/contactContainer/ContactOne'
 import Footer from '../footer/Footer'
 import Header from '../header/Header'
