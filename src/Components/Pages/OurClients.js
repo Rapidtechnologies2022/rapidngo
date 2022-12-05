@@ -1,5 +1,5 @@
 import React from 'react'
-import BreadCrumb from '../breadCrumb/BreadCrumb'
+import BreadCrumb from '../BreadCrumb/BreadCrumb'
 import Client from '../container/homeContainer/homeClient/Client'
 import JoinWithUs from '../container/homeContainer/JoinWithUs'
 import OurClientOne from '../container/ourClient/OurClientOne'

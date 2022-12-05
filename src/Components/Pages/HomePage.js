@@ -15,7 +15,7 @@ function HomePage() {
             <SEO title="Rapid Technologies || Home" />
             <Header />
             <Slide />
-           {/*  <Client /> */}
+            <Client />
             <HomeAbout />
             <HomeService />
             <Newsletter />

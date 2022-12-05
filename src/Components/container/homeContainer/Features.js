@@ -6,7 +6,7 @@ function Features() {
            <section className="content-inner bg-white">
 			<div className="container">
 				<div className="section-head style-3 text-center">
-					<h2 className="title">Our Fetures</h2>
+					<h2 className="title">UpComing Programs</h2>
 					<div className="dlab-separator style-2 bg-primary"></div>
 				</div>
 				<div className="row align-items-center about-wraper-2">
@@ -15,22 +15,22 @@ function Features() {
 							<div className="col-lg-12 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
 								<div className="icon-bx-wraper left m-b50 icon-up">
 									<div className="icon-bx-sm radius gradient-sec shadow-primary m-b20"> 
-										<a href="javascript:void(0);" className="icon-cell text-white"><i className="flaticon-idea"></i></a> 
+										<a href="javascript:void(0);" className="icon-cell text-white"><img src='/images/gif/gelato.gif' alt='..Load' /></a> 
 									</div>
 									<div className="icon-content">
-										<h4 className="dlab-tilte text-capitalize">Requirement & Analysis</h4>
-										<p>The requirements process typically consists of three basic tasks: problem or requirement analysis, requirements specification, and requirements validation.</p>
+										<h4 className="dlab-tilte text-capitalize">Food Distribution</h4>
+										<p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
 									</div>
 								</div>
 							</div>
 							<div className="col-lg-12 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
 								<div className="icon-bx-wraper left m-b50 icon-up">
 									<div className="icon-bx-sm radius gradient-sec shadow-primary m-b20"> 
-										<a href="javascript:void(0);" className="icon-cell text-white"><i className="flaticon-vector"></i></a> 
+										<a href="javascript:void(0);" className="icon-cell text-white"><img src='/images/gif/open-book.gif' alt='..Load' /></a> 
 									</div>
 									<div className="icon-content">
-										<h4 className="dlab-tilte text-capitalize">Designing</h4>
-										<p>In software design, we consider the system to be a set of components or modules with clearly defined behaviors & boundaries.</p>
+										<h4 className="dlab-tilte text-capitalize">Stationary Item Distribution</h4>
+										<p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
 									</div>
 								</div>
 							</div>
@@ -38,7 +38,7 @@ function Features() {
 					</div>
 					<div className="col-lg-4 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.2s">
 						<div className="dz-media text-center m-b30">
-							<img src="images/about/img1.png" className="move-1" alt=""/>
+							<img src="/images/icon/5299.jpg" className="move-1" alt=""/>
 						</div>
 					</div>
 					<div className="col-lg-4">
@@ -46,22 +46,22 @@ function Features() {
 							<div className="col-lg-12 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
 								<div className="icon-bx-wraper left m-b50 icon-up">
 									<div className="icon-bx-sm radius gradient-sec shadow-primary m-b20"> 
-										<a href="javascript:void(0);" className="icon-cell text-white"><i className="flaticon-coding"></i></a> 
+										<a href="javascript:void(0);" className="icon-cell text-white"><img src='/images/gif/medicine.gif' alt='..Load' /></a> 
 									</div>
 									<div className="icon-content">
-										<h4 className="dlab-tilte text-capitalize">Development</h4>
-										<p>Ensure compatibility between different team projects and to make sure target goals are being met.</p>
+										<h4 className="dlab-tilte text-capitalize">Medicine Distribution</h4>
+										<p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
 									</div>
 								</div>
 							</div>
 							<div className="col-lg-12 col-md-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
 								<div className="icon-bx-wraper left m-b50 icon-up">
 									<div className="icon-bx-sm radius gradient-sec shadow-primary m-b20"> 
-										<a href="javascript:void(0);" className="icon-cell text-white"><i className="flaticon-rocket"></i></a> 
+										<a href="javascript:void(0);" className="icon-cell text-white"><img src='/images/gif/dress.gif' alt='..Load' /></a> 
 									</div>
 									<div className="icon-content">
-										<h4 className="dlab-tilte text-capitalize">Testing & Deploy</h4>
-										<p> Different parts of the application should also be tested to work seamlessly together—performance test, to reduce any hangs or lags in processing.</p>
+										<h4 className="dlab-tilte text-capitalize">Clothes Distribution</h4>
+										<p> Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
 									</div>
 								</div>
 							</div>
