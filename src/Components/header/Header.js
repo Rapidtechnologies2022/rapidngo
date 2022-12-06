@@ -31,7 +31,7 @@ function Header() {
                             </div>
                             <div className={`header-nav navbar-collapse collapse justify-content-end ${show ? "show" : ""}`} id="navbarNavDropdown">
                                 <div className="logo-header">
-                                    <Link to="/"><a><img src="/images/rapid_logo.png" alt="" /></a></Link>
+                                    <Link to="/"><a><img src="/images/veniLogo.PNG" alt="" /></a></Link>
                                 </div>
                                 <ul className="nav navbar-nav navbar">
                                     <li><Link to="/"><a>Home</a></Link></li>

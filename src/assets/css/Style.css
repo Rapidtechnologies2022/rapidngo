@@ -13545,7 +13545,7 @@ ul.primary li:before {
 
 button.scroltop {
   box-shadow: -4px 4px 24px -10px #896eff !important;
-  background: #896eff;
+  background: #f7931e;
   border-color: #896eff;
   border-radius: 4px;
   border-style: solid;
@@ -16058,7 +16058,7 @@ footer {
       footer .footer-top {
         padding: 50px 0 20px; } }
   footer .footer-bottom {
-    background-color: #b3a1ff;
+    background-color: #0d4470;
     font-size: 15px;
     padding: 15px 0; }
     footer .footer-bottom .copyright-text a {
@@ -16161,7 +16161,7 @@ footer {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-color: #896eff; }
+  background-color: #1b75bc; }
   .site-footer.style-1 .footer-top {
     background: transparent; }
     .site-footer.style-1 .footer-top .widget_services {
@@ -16196,7 +16196,7 @@ footer {
   .site-footer.style-2 .container + .footer-top {
     padding-top: 70px; }
   .site-footer.style-2 .footer-bottom {
-    background-color: #1f343b;
+    background-color: #1b75bc;
     padding: 10px 0; }
   @media only screen and (max-width: 1199px) {
     .site-footer.style-2 .footer-top .widget_services {
@@ -16206,7 +16206,7 @@ footer {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-color: #896eff; }
+  background-color: #1b75bc; }
   .site-footer.style-3 .footer-top {
     background: transparent; }
 

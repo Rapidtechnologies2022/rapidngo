@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 function BreadCrumb({mainTitle,title,text,img}) {
     return (
-        <div className="dlab-bnr-inr overlay-primary-dark" style={{ "backgroundImage": `url(${img})` }}>
+        <div className="dlab-bnr-inr overlay-black-middle" style={{ "backgroundImage": `url(${img})` }}>
             <div className="container">
                 <div className="dlab-bnr-inr-entry">
                     <h1> {mainTitle} </h1>
