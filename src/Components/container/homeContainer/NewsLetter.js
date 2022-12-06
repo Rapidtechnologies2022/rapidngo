@@ -13,11 +13,11 @@ function Newsletter() {
                         </div>
                         <div className="col-lg-8 col-md-7 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
                             <div className="section-head style-1 text-white">
-                                <h6 className="sub-title bgl-light m-b20">Newsletter</h6>
-                                <h2 className="title m-b15">Subscribe To Our Newsletter For Latest Update Of Our Services </h2>
-                                <p>For Latest updates on our digital and other services, Subscribe to our Newsletters.</p>
+                            {/*     <h6 className="sub-title bgl-light m-b20">Newsletter</h6> */}
+                                <h2 className="title">Subscribe To Our Newsletter For Latest Update Of Our Services </h2>
+                             {/*    <p>For Latest updates on our digital and other services, Subscribe to our Newsletters.</p> */}
                             </div>
-                            <div className="dlab-subscribe style-2 max-w500">
+                           {/*  <div className="dlab-subscribe style-2 max-w500">
                                 <form className="dzSubscribe" action="script/mailchamp.php" method="post">
                                     <div className="dzSubscribeMsg"></div>
                                     <div className="form-group">
@@ -29,7 +29,7 @@ function Newsletter() {
                                         </div>
                                     </div>
                                 </form>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
