@@ -26,7 +26,7 @@ function Header() {
                             {/* <!-- Extra Nav --> */}
                             <div className="extra-nav">
                                 <div className="extra-cell">
-                                    <Link to="/contact"><a className="btn btn-corner gradient btn-primary"><i className="fa fa-angle-right m-r10"></i>Contact Us</a></Link>
+                                    <Link to="/contact"><a className="btn btn-corner gradient btn-primary"><i className="fa fa-angle-right m-r10"></i>Donate Now</a></Link>
                                 </div>
                             </div>
                             <div className={`header-nav navbar-collapse collapse justify-content-end ${show ? "show" : ""}`} id="navbarNavDropdown">
@@ -42,8 +42,9 @@ function Header() {
                                             {/* <li><Link to="/service/details"><a>Service Details</a></Link></li> */}
                                         </ul>
                                     </li>
-                                    <li><Link to="/our/clients"><a>Our Clients</a></Link></li>
+                                    <li><Link to="/our/clients"><a>Volunteers</a></Link></li>
                                     <li><Link to="/blogs"><a>Blogs</a></Link></li>
+                                    <li><Link to="/contact"><a>Contact us</a></Link></li>
                                 </ul>
                                 <div className="dlab-social-icon">
                                     <ul>
