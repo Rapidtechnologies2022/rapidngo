@@ -11,6 +11,10 @@ import OurClients from './Components/Pages/OurClients';
 import ServiceDetails from './Components/Pages/ServiceDetails';
 import Services from './Components/Pages/Services';
 import Float from './Components/floatIcons/Float';
+import Volunteers from './Components/Pages/Volunteers';
+import Images from './Components/Pages/Images';
+import Videos from './Components/Pages/Videos';
+import Donate from './Components/Pages/Donate';
 
 
 function App() {
@@ -23,9 +27,12 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/services" element={<Services />} />
           <Route path="/service/details" element={<ServiceDetails />} />
-          <Route path="/our/clients" element={<OurClients />} />
+          <Route path="/volunteer" element={<Volunteers />} />
           <Route path="/blogs" element={<Blogs />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/images" element={<Images />} />
+          <Route path="/videos" element={<Videos />} />
+          <Route path="/donate" element={<Donate />} />
         </Routes>
       </BrowserRouter>
     </>

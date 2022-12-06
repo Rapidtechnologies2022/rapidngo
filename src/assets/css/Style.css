@@ -1,8 +1,5 @@
-/*
-    Name: Samar 
-    Author: DexignZone
-    Portfolio : https://themeforest.net/user/dexignzone/portfolio
-   
+/*Bootstrap CSS
+    Name: Veni Foundation 
 
     Table of Content: 
 
@@ -25,12 +22,8 @@
   --gradient: linear-gradient(to right,#1B75BC 0,#0d4470 51%,#1B75BC 100%);
   --gradient-sec: linear-gradient(to right,#0d4470 0,#0d4470 51%,#0d4470 100%); }
 
-/*!
- * Bootstrap v4.3.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+}
+
 :root {
   --blue: #5543d1;
   --indigo: #6610f2;
@@ -11547,6 +11540,8 @@ textarea {
 .overlay-primary-light,
 .overlay-primary-middle,
 .overlay-primary-dark,
+.overlay-primary-cyan,
+
 .overlay-primary {
   position: relative; }
   .overlay-black-light:before,
