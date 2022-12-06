@@ -26,7 +26,7 @@ function Header() {
                             {/* <!-- Extra Nav --> */}
                             <div className="extra-nav">
                                 <div className="extra-cell">
-                                    <Link to="/contact"><a className="btn btn-corner gradient btn-primary"><i className="fa fa-angle-right m-r10"></i>Donate Now</a></Link>
+                                    <Link to="/donate"><a className="btn btn-corner" style={{backgroundColor:"#0d4470", color:"#fff"}}><i className="fa fa-angle-right m-r10"></i>Donate Now</a></Link>
                                 </div>
                             </div>
                             <div className={`header-nav navbar-collapse collapse justify-content-end ${show ? "show" : ""}`} id="navbarNavDropdown">
@@ -42,8 +42,13 @@ function Header() {
                                             {/* <li><Link to="/service/details"><a>Service Details</a></Link></li> */}
                                         </ul>
                                     </li>
-                                    <li><Link to="/our/clients"><a>Volunteers</a></Link></li>
-                                    <li><Link to="/blogs"><a>Blogs</a></Link></li>
+                                    <li><Link to="/volunteer"><a>Volunteers</a></Link></li>
+                                    <li className={`${open === "about" ? "open" : ""}`}><a onClick={() => setOpen("about")}><span>Gallery</span><i className="fa fa-chevron-down"></i></a>
+                                        <ul className="sub-menu">
+                                            <li><Link to="/images"><a> Images</a></Link></li>
+                                            <li><Link to="/videos"><a>Videos</a></Link></li>
+                                        </ul>
+                                    </li>
                                     <li><Link to="/contact"><a>Contact us</a></Link></li>
                                 </ul>
                                 <div className="dlab-social-icon">

@@ -13,7 +13,7 @@ function ContactOne() {
                     <div className="col-xl-6 col-lg-7 m-b30 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
                         <div className="section-head style-1">
                             <h6 className="sub-title bgl-primary m-b20 text-primary">Contact Us</h6>
-                            <h2 className="title">We Love To Help Great Companies To Enlarge Their Revenues.</h2>
+                            <h2 className="title">Happiness doesn’t result from what we get, but from what we give.</h2>
                         </div>
                         <form className="dlab-form dzForm" method="POST" action="script/contact.php">
                             <div className="dzFormMsg"></div>
@@ -51,28 +51,15 @@ function ContactOne() {
                                         <input name="dzOther[phone]" type="text" required className="form-control" placeholder="Phone No." />
                                     </div>
                                 </div>
-                                <div className="col-sm-6">
+                                <div className="col-sm-12">
                                     <div className="input-group">
                                         <div className="input-group-prepend">
                                             <span className="input-group-text"><i className="la la-file-alt"></i></span>
                                         </div>
-                                        <input name="dzOther[project_title]" type="text" className="form-control" required placeholder="Project Title" />
+                                        <input name="dzOther[project_title]" type="text" className="form-control" required placeholder="Address" />
                                     </div>
                                 </div>
-                                <div className="col-sm-6">
-                                    <div className="input-group">
-                                        <div className="input-group-prepend">
-                                            <span className="input-group-text"><i className="la la-list"></i></span>
-                                        </div>
-                                        <select name="dzOther[choose_service]" className="form-control" required>
-                                            <option selected>Choose Service</option>
-                                            <option value="1">Web/Mobile Development</option>
-                                            <option value="2">Digital Marketing</option>
-                                            <option value="3">Consulting Services</option>
-                                            <option value="3">IT Training & Placements</option>
-                                        </select>
-                                    </div>
-                                </div>
+                               
                                 <div className="col-sm-12">
                                     <div className="input-group">
                                         <div className="input-group-prepend">
@@ -95,7 +82,7 @@ function ContactOne() {
                     </div>
                     <div className="col-xl-6 col-lg-5 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
                         <div className="dlab-media cf-r-img">
-                            <img src="images/about/img2.png" className="move-1" alt="" />
+                            <img src="/images/icon/43054.jpg" className="move-1" alt="" />
                         </div>
                     </div>
                 </div>
