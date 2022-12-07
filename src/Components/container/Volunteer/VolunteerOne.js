@@ -4,7 +4,7 @@ import Counterup from './CounterUp'
 function VolunteerOne() {
   return (
     <section className="counter-wraper-2 overlay-black-middle mt-5">
-      <div className="counter-inner content-inner-3" style={{ "backgroundImage": "url(/images/background/bg14.png)", "backgroundPosition": "center", "backgroundRepeat": "no-repeat" }}>
+      <div className="counter-inner content-inner-3" style={{ "backgroundImage": "url(/images/background/bg14.png)", "backgroundPosition": "center", "background-color": "#1B75BC","backgroundRepeat": "no-repeat", }}>
         <div className="container">
           <div className="row">
             <div className="col-lg-3 col-sm-6 m-b30">

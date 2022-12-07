@@ -7,9 +7,11 @@ function BecomeVonunteer() {
     }
 
     return (
-        <div className="container mt-5 mb-3">
-            <div className="section-head style-3 text-center">
-                <h2 className="title">Volunteer Application</h2>
+        <section  style={{ "backgroundImage": "url(images/background/bg15.png)", "backgroundSize": "contain", "backgroundPosition": "center right","background-color": "#e0f8ff", "backgroundRepeat": "no-repeat" }}>
+        <div className="container">
+            <div className="section-head style-3 text-center"><br/>
+              {/*   <h2 className="title">Volunteer Application</h2> */}
+              <h2 className="title ">Volunteer<span className="text-primary"> Application</span></h2>
                 <div className="dlab-separator style-2 bg-primary"></div>
             </div>
             <div className="row justify-content-center">
@@ -93,7 +95,7 @@ function BecomeVonunteer() {
                 </div>
             </div>
         </div>
-
+        </section>
     )
 }
 

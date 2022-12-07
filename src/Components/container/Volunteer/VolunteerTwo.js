@@ -4,7 +4,8 @@ function VolunteerTwo() {
     return (
         <div className="container mt-5">
             <div className="section-head style-3 text-center">
-                <h2 className="title">Become Volunteer</h2>
+              {/*   <h2 className="title">Become </h2> */}
+              <h2 className="title">Become  <span className="text-primary">Volunteer</span></h2>
                 <div className="dlab-separator style-2 bg-primary"></div>
             </div>
             <div className="row">
