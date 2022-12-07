@@ -22,8 +22,6 @@
   --gradient: linear-gradient(to right,#1B75BC 0,#0d4470 51%,#1B75BC 100%);
   --gradient-sec: linear-gradient(to right,#0d4470 0,#0d4470 51%,#0d4470 100%); }
 
-}
-
 :root {
   --blue: #5543d1;
   --indigo: #6610f2;
