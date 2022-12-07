@@ -22,7 +22,7 @@
   --gradient: linear-gradient(to right,#1B75BC 0,#0d4470 51%,#1B75BC 100%);
   --gradient-sec: linear-gradient(to right,#0d4470 0,#0d4470 51%,#0d4470 100%); }
 
-}
+
 
 :root {
   --blue: #5543d1;
@@ -11101,7 +11101,7 @@ textarea {
       height: 250px;
       width: 250px; }
     .icon-bx-wraper.style-3 .wraper-effect:after {
-      background-color: #FAAC51;
+      background-color: #1469ad;
       height: 150px;
       width: 150px; }
   .icon-bx-wraper.style-3:hover, .icon-bx-wraper.style-3.active {
@@ -13541,7 +13541,7 @@ ul.primary li:before {
 
 button.scroltop {
   box-shadow: -4px 4px 24px -10px #896eff !important;
-  background: #f7931e;
+  background: #0d4470;
   border-color: #896eff;
   border-radius: 4px;
   border-style: solid;
@@ -16222,6 +16222,23 @@ footer {
   .float-whatsapp{
     margin-top: -50px !important;
   }
+
+  /* News letter css */
+.platform{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  
+  
+}
+.icon-heading{
+  color:white;
+  font-size:x-large;
+}
+.custom-heading{
+  color:white;
+}
+
 
     /* End WhatsApp Icon */
 

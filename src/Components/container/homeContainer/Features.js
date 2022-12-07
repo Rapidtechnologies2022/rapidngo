@@ -6,7 +6,8 @@ function Features() {
            <section className="content-inner bg-white">
 			<div className="container">
 				<div className="section-head style-3 text-center">
-					<h2 className="title">UpComing Programs</h2>
+				{/* 	<h2 className="title">UpComing Programs</h2> */}
+				<h2 className="title m-b20">UpComing<span className="text-primary"> Programs</span> </h2>
 					<div className="dlab-separator style-2 bg-primary"></div>
 				</div>
 				<div className="row align-items-center about-wraper-2">
