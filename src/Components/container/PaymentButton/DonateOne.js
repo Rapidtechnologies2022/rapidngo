@@ -10,19 +10,21 @@ function DonateOne() {
             </div>
             <div className='row' >
                 <div className='col' >
-                    <div className='flex' >
+                    <img src='/images/volunteer/volunteers-food.jpg' alt='..Loading' />
+                </div>
+                <div className='col' >
+                    <div>
                         <h2> Bank Account Details </h2>
                         <h5> <b>Bank Name:</b> State Bank of India </h5>
                         <h5> <b>Name:</b> Veni Foundation </h5>
                         <h5> <b>Ac No:</b> 402545685785 </h5>
                         <h5> <b>IFSC Code:</b> SBIN006045 </h5>
                     </div>
-                    {/* c */}
-                </div>
-                <div className='col flex' >
-                    <h2> Donate Online </h2>
-                    <h5> Making a donation is the ultimate sign of solidarity.</h5>
-                    <><PaymentButton /> </>
+                    <div>
+                        <h2> Donate Online </h2>
+                        {/* <h5> Making a donation is the ultimate sign of solidarity.</h5> */}
+                        <><PaymentButton /> </>
+                    </div>
                 </div>
             </div>
         </div>
