@@ -13,7 +13,7 @@ import Slide from '../slide/Slide'
 function HomePage() {
     return (
         <>
-            <SEO title="Rapid Technologies || Home" />
+            <SEO title="Veni Foundations || Home" />
             <Header />
             <Slide />
           {/*   <Client /> */}

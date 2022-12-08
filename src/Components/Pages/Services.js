@@ -10,7 +10,7 @@ import SEO from '../SEO/SEO'
 function Services() {
     return (
         <>
-            <SEO title="Rapid Technologies || Our Services" />
+            <SEO title="Veni Foundations || Our Services" />
             <Header />
             <BreadCrumb mainTitle="Our Services" title="Home" text="Our Services" img="/images/banner/heart1.jpg" />
             <ServiceOne />

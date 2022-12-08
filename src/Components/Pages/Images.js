@@ -8,7 +8,7 @@ import SEO from '../SEO/SEO'
 function Images() {
     return (
         <>
-            <SEO title="Veni Foundation || Gallery" />
+            <SEO title="Veni Foundations || Gallery" />
             <Header />
             <BreadCrumb mainTitle="Images" title="Home" text="Gallery" img="/images/banner/bnr1.jpg" />
             <Gallery />

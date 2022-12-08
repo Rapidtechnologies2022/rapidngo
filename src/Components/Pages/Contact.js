@@ -8,7 +8,7 @@ import SEO from '../SEO/SEO'
 function Contact() {
     return (
         <>
-            <SEO title="Rapid Technologies || Contact" />
+            <SEO title="Veni Foundations || Contact" />
             <Header />
             <BreadCrumb mainTitle="Contact Us" title="Home" text="Contact us" img="/images/banner/bnr1.jpg" />
             <ContactOne />

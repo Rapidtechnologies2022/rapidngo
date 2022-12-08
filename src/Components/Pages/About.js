@@ -9,7 +9,7 @@ import SEO from '../SEO/SEO'
 function About() {
     return (
         <>
-            <SEO title="Rapid Technologies || About" />
+            <SEO title="Veni Foundation || About" />
             <Header />
             <BreadCrumb mainTitle="About Us" title="Home" text="About us" img="/images/banner/bnr1.jpg" />
             <AboutOne />
