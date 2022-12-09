@@ -5,7 +5,8 @@ function DonateOne() {
     return (
         <div className='container mt-3 mb-3' >
             <div className="section-head style-3 text-center">
-                <h2 className="title">Make Online Donation</h2>
+            <h2 className="title">Make Online<span className="text-primary"> Donation</span></h2>
+               {/*  <h2 className="title">Make Online Donation</h2> */}
                 <div className="dlab-separator style-2 bg-primary"></div>
             </div>
             <div className='row' >
