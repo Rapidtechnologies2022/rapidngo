@@ -55,7 +55,7 @@ function Header() {
                                     <ul>
                                         <a href="https://en-gb.facebook.com/" target="_blank"><a className="fa fa-facebook"></a></a>
                                         <a href="https://twitter.com/login?lang=en" target="_blank"><a className="fa fa-twitter"></a></a>
-                                        <a href="https://www.aedin.com/login" target="_blank"><a className="fa fa-aedin"></a></a>
+                                        <a href="https://en-gb.facebook.com/" target="_blank"><a className="fa fa-facebook"></a></a>
                                         <a href="https://www.instagram.com/" target="_blank"><a className="fa fa-instagram"></a></a>
                                     </ul>
                                 </div>
