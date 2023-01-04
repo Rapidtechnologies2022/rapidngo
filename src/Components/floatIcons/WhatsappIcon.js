@@ -9,7 +9,7 @@ function WhatsappIcon() {
     return (
         <div>
             <WhatsAppWidget
-                phoneNumber='919966619759'
+                phoneNumber='919912162338'
                 textReplyTime="Online"
                 autoOpen={true}
                 message={<>Hi there 👋 <br /><br /> How can I help you?</>

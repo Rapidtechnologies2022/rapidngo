@@ -22,7 +22,7 @@ function Footer() {
                                             </a>
                                         </div>
                                         <div className="icon-content">
-                                            <p>+91 9966619759<br />info@venifoundation.com</p>
+                                            <p>+91 9912162338<br />info@venifoundation.com</p>
                                         </div>
                                     </div>
                                 </div>
@@ -34,7 +34,7 @@ function Footer() {
                                             </a>
                                         </div>
                                         <div className="icon-content">
-                                            <p>Madhapur Road Hitech City, Hyderabad</p>
+                                            <p>Y. Kothapalli, East Godavari District, Andhra Pradesh</p>
                                         </div>
                                     </div>
                                 </div>
@@ -96,7 +96,7 @@ function Footer() {
                     <div className="container">
                         <div className="row">
                             <div className="col-sm-12 text-center">
-                                <span className="copyright-text">Copyright © 2021 <a href="https://venifoundation.com/" target="_blank">Veni Foundation</a>. All rights reserved.</span>
+                                <span className="copyright-text">Copyright © 2023 <a href="https://venifoundation.com/" target="_blank">Veni Foundation</a>. All rights reserved.</span>
                             </div>
                         </div>
                     </div>

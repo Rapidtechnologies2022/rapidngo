@@ -10,7 +10,7 @@ function VolunteerOne() {
             <div className="col-lg-3 col-sm-6 m-b30">
               <div className="dlab-content-bx style-3 text-center">
                 <div className="icon-content">
-                  <h2 className="m-b0 text-primary"><Counterup count={10000} />+</h2>
+                  <h2 className="m-b0 text-primary"><Counterup count={5000} />+</h2>
                   <span className="title">Food Distribution</span>
                   <div className="icon-md text-primary">
                     <span className="icon-cell">
@@ -23,7 +23,7 @@ function VolunteerOne() {
             <div className="col-lg-3 col-sm-6 m-b30">
               <div className="dlab-content-bx style-3 text-center">
                 <div className="icon-content">
-                  <h2 className="m-b0 text-primary"><Counterup count={5000} />+</h2>
+                  <h2 className="m-b0 text-primary"><Counterup count={500} />+</h2>
                   <span className="title">Books Distribution</span>
                   <div className="icon-md text-primary">
                     <span className="icon-cell">
@@ -36,7 +36,7 @@ function VolunteerOne() {
             <div className="col-lg-3 col-sm-6 m-b30">
               <div className="dlab-content-bx style-3 text-center">
                 <div className="icon-content">
-                  <h2 className="m-b0 text-primary"><Counterup count={4000} />+</h2>
+                  <h2 className="m-b0 text-primary"><Counterup count={100} />+</h2>
                   <span className="title">Medical Support</span>
                   <div className="icon-md text-primary">
                     <span className="icon-cell">
@@ -50,7 +50,7 @@ function VolunteerOne() {
             <div className="col-lg-3 col-sm-6 m-b30">
               <div className="dlab-content-bx style-3 text-center">
                 <div className="icon-content">
-                  <h2 className="m-b0 text-primary"><Counterup count={10} />+</h2>
+                  <h2 className="m-b0 text-primary"><Counterup count={1} />+</h2>
                   <span className="title">Years Completed</span>
                   <div className="icon-md text-primary">
                     <span className="icon-cell">
