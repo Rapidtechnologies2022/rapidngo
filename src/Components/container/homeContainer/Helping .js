@@ -19,7 +19,7 @@ function Helping() {
                             <li>WWhen a child gets access to good food</li>
                             <li>We are cost Effective.</li>
                         </ul> */}
-                        <Link to="about-us-2"><a className="btn btn-primary rounded-xl gradient">Join Us Today</a></Link>
+                        <Link to="/volunteer"><a className="btn btn-primary rounded-xl gradient">Join Us Today</a></Link>
                      {/*    <Link to="about-us-2"><a className="btn btn-primary rounded-xl gradient ml-3">View Programs</a></Link> */}
                     </div>
                     <div className="col-lg-6 m-b30 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">

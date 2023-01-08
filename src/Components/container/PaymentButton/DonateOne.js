@@ -1,31 +1,30 @@
 import React from 'react'
-import PaymentButton from './PaymentButton'
 
 function DonateOne() {
     return (
-        <div className='container mt-3 mb-3' >
+        <div className='container mt-5 mb-2' >
             <div className="section-head style-3 text-center">
-            <h2 className="title">Make Online<span className="text-primary"> Donation</span></h2>
-               {/*  <h2 className="title">Make Online Donation</h2> */}
+                <h2 className="title">UPI<span className="text-primary"> Payments</span></h2>
+                {/*  <h2 className="title">Make Online Donation</h2> */}
                 <div className="dlab-separator style-2 bg-primary"></div>
             </div>
             <div className='row' >
-                <div className='col' >
-                    <img src='/images/volunteer/volunteers-food.jpg' alt='..Loading' />
+                <div className='col-lg-6 col-xs-12' >
+                    <img src='/images/payment/payment.jpeg' alt='..Loading' />
                 </div>
-                <div className='col' >
+                <div className='col-lg-6 col-xs-12' >
                     <div>
-                        <h2> Bank Account Details </h2>
-                        <h5> <b>Bank Name:</b> State Bank of India </h5>
-                        <h5> <b>Name:</b> Veni Foundation </h5>
-                        <h5> <b>Ac No:</b> 402545685785 </h5>
-                        <h5> <b>IFSC Code:</b> SBIN006045 </h5>
+                        <h5> Making a donation is the ultimate sign of solidarity.</h5>
                     </div>
                     <div>
-                        <h2> Donate Online </h2>
-                        {/* <h5> Making a donation is the ultimate sign of solidarity.</h5> */}
-                        <><PaymentButton /> </>
+                        <h2> Scan QR Code for </h2>
+                        <h2> All UPI Payments  </h2>
+                        <h5>  Google Pay </h5>
+                        <h5>  Phone Pay </h5>
+                        <h5>  Paytm </h5>
+                        <h5>  Bhim Upi </h5>
                     </div>
+
                 </div>
             </div>
         </div>

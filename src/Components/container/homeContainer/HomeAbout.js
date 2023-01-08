@@ -23,8 +23,8 @@ function HomeAbout() {
                             <li>WWhen a child gets access to good food</li>
                             <li>We are cost Effective.</li>
                         </ul>
-                        <Link to="about-us-2"><a className="btn btn-primary rounded-xl gradient">Donate Now</a></Link>
-                        <Link to="about-us-2"><a className="btn btn-primary rounded-xl gradient ml-3">View Programs</a></Link>
+                        <Link to="/donate"><a className="btn btn-primary rounded-xl gradient">Donate Now</a></Link>
+                        <Link to="/services"><a className="btn btn-primary rounded-xl gradient ml-3">View Programs</a></Link>
                     </div>
                 </div>
             </div>

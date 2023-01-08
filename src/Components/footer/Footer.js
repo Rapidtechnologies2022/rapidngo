@@ -49,7 +49,8 @@ function Footer() {
                                         <ul>
                                             <li><a className="fa fa-facebook" href="https://en-gb.facebook.com/" target="_blank"></a></li>
                                             <li><a className="fa fa-instagram" href="https://www.instagram.com/" target="_blank"></a></li>
-                                            <li><a className="fa fa-twitter" href="https://twitter.com/login?lang=en" target="_blank"></a></li>
+                                            <li><a className="fa fa-twitter" href="https://twitter.com/" target="_blank"></a></li>
+                                            <li><a className="fa fa-youtube-play" href="https://youtube.com/" target="_blank"></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -82,7 +83,7 @@ function Footer() {
                                     <h5 className="footer-title">Other links</h5>
                                     <ul>
                                         <li><Link to="/contact">Contact</Link></li>
-                                        <li><Link to="/our/clients">Volunteers</Link></li>
+                                        <li><Link to="/volunteer">Volunteers</Link></li>
                                         <li><a href="javascript:void(0);">Privacy Policy</a></li>
                                         <li><a href="javascript:void(0);">Terms & Conditions</a></li>
                                     </ul>

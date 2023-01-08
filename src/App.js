@@ -15,6 +15,8 @@ import Volunteers from './Components/Pages/Volunteers';
 import Images from './Components/Pages/Images';
 import Videos from './Components/Pages/Videos';
 import Donate from './Components/Pages/Donate';
+import SuccessPage from './Components/Pages/SuccessPage';
+import ScrollToTop from './Components/Pages/ScrollToTop';
 
 
 function App() {
@@ -22,18 +24,21 @@ function App() {
     <>
       <Float />
       <BrowserRouter>
-        <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/services" element={<Services />} />
-          <Route path="/service/details" element={<ServiceDetails />} />
-          <Route path="/volunteer" element={<Volunteers />} />
-          <Route path="/blogs" element={<Blogs />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/images" element={<Images />} />
-          <Route path="/videos" element={<Videos />} />
-          <Route path="/donate" element={<Donate />} />
-        </Routes>
+        <ScrollToTop>
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/services" element={<Services />} />
+            <Route path="/service/details" element={<ServiceDetails />} />
+            <Route path="/volunteer" element={<Volunteers />} />
+            <Route path="/blogs" element={<Blogs />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/images" element={<Images />} />
+            <Route path="/videos" element={<Videos />} />
+            <Route path="/donate" element={<Donate />} />
+            <Route path="/success" element={<SuccessPage />} />
+          </Routes>
+        </ScrollToTop>
       </BrowserRouter>
     </>
   );
