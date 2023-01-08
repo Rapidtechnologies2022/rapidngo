@@ -13,7 +13,7 @@ function Volunteers() {
         <>
             <SEO title="Veni Foundations || Become Volunteer" />
             <Header />
-            <BreadCrumb mainTitle="Become Volunteer" title="Home" text="Volunteer" img="/images/banner/bnr1.jpg" />
+            <BreadCrumb mainTitle="Become Volunteer" title="Home" text="Volunteer" img="/images/banner/bnr2.jpg" />
             <VolunteerTwo />
             <VolunteerOne />
             <BecomeVonunteer />
