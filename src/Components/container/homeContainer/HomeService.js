@@ -24,7 +24,7 @@ function HomeService() {
 								</div>
 								<div className="wraper-effect"></div>
 								<div className="icon-content">
-									<h4 className="dlab-title m-b15">Become Volunteer</h4>
+									<h4 className="dlab-title m-b15">Food Donation</h4>
 									<p>We create highly polished IOS & Android apps for startups and enterprise clients. We also know a thing or two about branding, websites, and user acquisition.</p>
 								</div>
 							</div>
@@ -52,7 +52,7 @@ function HomeService() {
 								</div>
 								<div className="wraper-effect"></div>
 								<div className="icon-content">
-									<h4 className="dlab-title m-b15">Donate Money</h4>
+									<h4 className="dlab-title m-b15">Medical Support</h4>
 									<p>Are you looking for a fresh new digital agency, who treats your business like its own, looks to continually improve results, has proven experience running digital campaigns for brands (big and small) for over a decade.</p>
 								</div>
 							</div>
@@ -66,7 +66,7 @@ function HomeService() {
 								</div>
 								<div className="wraper-effect"></div>
 								<div className="icon-content">
-									<h4 className="dlab-title m-b15">Our Gallery</h4>
+									<h4 className="dlab-title m-b15">Blood Donation</h4>
 									<p>An IT consultant works in partnership with clients, advising them how to use information technology in order to meet their business objectives or overcome problems. They work to improve the structure and efficiency of IT systems in various organisations.</p>
 								</div>
 							</div>
@@ -80,7 +80,7 @@ function HomeService() {
 								</div>
 								<div className="wraper-effect"></div>
 								<div className="icon-content">
-									<h4 className="dlab-title m-b15">Child Development</h4>
+									<h4 className="dlab-title m-b15">Education Support</h4>
 									<p>What are the options available, manage it yourself or ask a supplier to do it for you. Ensuring the right strategy is in place that fits the goals of your organisation.</p>
 								</div>
 							</div>
