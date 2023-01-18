@@ -22,7 +22,7 @@ function AboutOne() {
                          {/*     <h2 className="title"><span className="text-primary">About the </span>venifoundation</h2> */}
                                <h2 className="title">We are tender heart charity foundation.</h2> 
                             </div>
-                            <p >When a child gets access to good food, it can change just about everything. Sed do eiusmod tempor incididunt dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                            <p >Veni Foundation is a non-profit organization dedicated to improving the lives of people in need. We believe that access to essential resources, such as food, medicine, education, and clean water, can change everything for a person. Our mission is to provide these resources to those who need them the most, aiming to improve the community's overall health and well-being.</p>
                             <div className="row">
                                 <div className="col-lg-6">
                                     <ul className="list-arrow primary">

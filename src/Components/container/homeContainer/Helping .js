@@ -11,7 +11,9 @@ function Helping() {
                         <div className="section-head style-3">
                        {/*      <h6 className="sub-title text-primary bgl-primary m-b15">ABOUT US</h6> */}
                             <h2 className="title m-b20">What <span className="text-primary">we  </span> are doing </h2>
-                            <p>When a child gets access to good food, it can change just about everything. Sed do eiusmod tempor incididunt dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.When a child gets access to good food, it can change just about everything. Sed do eiusmod tempor incididunt dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                            <p>At Veni Foundation, we work to improve the lives of those in need. We provide essential resources such as medicine, financial support for operations, and oxygen cylinders in times of emergency. We also focus on programs for women's empowerment and child development. <br/> 
+Support us in our endeavour to improve the world!
+</p>
                         </div>
                         {/* <ul className="list-check primary m-b30">
                             <li>When a child gets access to good food</li>

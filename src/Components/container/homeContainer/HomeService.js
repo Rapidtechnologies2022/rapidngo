@@ -39,7 +39,7 @@ function HomeService() {
 								<div className="wraper-effect"></div>
 								<div className="icon-content">
 									<h4 className="dlab-title m-b15">Women Empowerment</h4>
-									<p>Rapid Technologies is having a strong Web Development wing, which is enriched with various technologies i.e. Ajax, ASP, ASP.NET, JavaScript, HTML, CSS, PHP, Node.Js, Angular Js, Java, etc. We are using various frameworks as per our clients’ requirements.</p>
+									<p>At Veni Foundation, we believe in the power of women and their potential to create a more equitable society. Through our programs and initiatives, we work to empower women by providing access to education, economic opportunities, and leadership development. Join us in our mission to empower women and create an equal world.</p>
 								</div>
 							</div>
 						</div>

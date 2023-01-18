@@ -16,26 +16,23 @@ function Newsletter() {
           </div>
           <div className="col-md-3 pt-3 wow fadeInUp" data-wow-delay=".4s">
             <img src='/images/icon/food5.png' alt='..Load' />
-            <h3 className="icon-heading mt-3">Donate Food</h3>
+            <h3 className="icon-heading mt-3">Pure food and water </h3>
             <p className="mt-3 custom-heading">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti
-              hic.
+            It is essential for the survival and well-being of all individuals. At Veni Foundation, we strive to provide access to clean and safe food and water for those in need.
             </p>
           </div>
           <div className="col-md-3 pt-3 wow fadeInUp" data-wow-delay=".5s">
             <img src='/images/icon/drug.png' alt='..Load' />
-            <h3 className="icon-heading mt-3">Donate Blood</h3>
+            <h3 className="icon-heading mt-3">Health & Medicine</h3>
             <p className="mt-3 custom-heading">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti
-              hic.
+            Access to quality healthcare is vital for maintaining good health and well-being. Veni Foundation is committed to providing these resources to improve their health and quality of life.
             </p>
           </div>
           <div className="col-md-3 pt-3 wow fadeInUp" data-wow-delay=".5s">
             <img src='/images/icon/education.png' alt='..Load' />
-            <h3 className="icon-heading mt-3">Donate Books</h3>
+            <h3 className="icon-heading mt-3">Education</h3>
             <p className="mt-3 custom-heading">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti
-              hic.
+            Education is the key to unlocking one's potential and creating a better future. Veni Foundation is dedicated to providing children and individuals with access to education opportunities, which will help them to achieve their goals and break the cycle of poverty.
             </p>
             <br />
           </div>

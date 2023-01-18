@@ -14,14 +14,14 @@ function HomeAbout() {
                     <div className="col-lg-6 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
                         <div className="section-head style-3">
                        {/*      <h6 className="sub-title text-primary bgl-primary m-b15">ABOUT US</h6> */}
-                            <h2 className="title m-b20"><span className="text-primary">Donate vitamin B12 </span>  supply program</h2>
-                            <p>When a child gets access to good food, it can change just about everything. Sed do eiusmod tempor incididunt dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                            <h2 className="title m-b20"><span className="text-primary">Donate to our </span> supply program</h2>
+                            <p>Veni Foundation is a dedicated NGO working to improve lives in need. Join us in our mission to make a difference in the lives in need. With your support, we can change the future for people in need, one life at a time.</p>
                         </div>
                         <ul className="list-check primary m-b30">
-                            <li>When a child gets access to good food</li>
-                            <li>We are Reliable.</li>
-                            <li>WWhen a child gets access to good food</li>
-                            <li>We are cost Effective.</li>
+                            <li>We provide essential resources such as medicine. </li>
+                            <li> We grant financial support for operations and oxygen cylinders in times of emergency .</li>
+                            <li>We ensure people have access to the resources they need to thrive.</li>
+                          
                         </ul>
                         <Link to="/donate"><a className="btn btn-primary rounded-xl gradient">Donate Now</a></Link>
                         <Link to="/services"><a className="btn btn-primary rounded-xl gradient ml-3">View Programs</a></Link>

@@ -48,9 +48,9 @@ function Footer() {
                                     <div className="dlab-social-icon">
                                         <ul>
                                             <li><a className="fa fa-facebook" href="https://en-gb.facebook.com/" target="_blank"></a></li>
-                                            <li><a className="fa fa-instagram" href="https://www.instagram.com/" target="_blank"></a></li>
+                                            <li><a className="fa fa-instagram" href="https://instagram.com/venifoundation9?igshid=OGQ2MjdiOTE=" target="_blank"></a></li>
                                             <li><a className="fa fa-twitter" href="https://twitter.com/" target="_blank"></a></li>
-                                            <li><a className="fa fa-youtube-play" href="https://youtube.com/" target="_blank"></a></li>
+                                            <li><a className="fa fa-youtube-play" href="https://www.youtube.com/channel/UCypX0xDybghgFjZBP9SS6Sw/" target="_blank"></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -84,8 +84,8 @@ function Footer() {
                                     <ul>
                                         <li><Link to="/contact">Contact</Link></li>
                                         <li><Link to="/volunteer">Volunteers</Link></li>
-                                        <li><a href="javascript:void(0);">Privacy Policy</a></li>
-                                        <li><a href="javascript:void(0);">Terms & Conditions</a></li>
+                                        <li><Link to="/privacy">privacy</Link></li>
+                                        <li><a href="/Terms">Terms & Conditions</a></li>
                                     </ul>
                                 </div>
                             </div>

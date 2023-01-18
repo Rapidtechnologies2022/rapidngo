@@ -20,7 +20,7 @@ function Features() {
 									</div>
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Food Distribution</h4>
-										<p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
+										<p>At Veni Foundation, we strive to provide access to nutritious food to those in need through our food distribution program.</p>
 									</div>
 								</div>
 							</div>
@@ -31,7 +31,7 @@ function Features() {
 									</div>
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Stationary Item Distribution</h4>
-										<p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
+										<p>Our stationary item distribution program ensures that children and individuals have access to the necessary tools for education and learning.</p>
 									</div>
 								</div>
 							</div>
@@ -51,7 +51,7 @@ function Features() {
 									</div>
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Medicine Distribution</h4>
-										<p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
+										<p>Our medicine distribution program aims to provide access to essential medicine to those who need it the most.</p>
 									</div>
 								</div>
 							</div>
@@ -62,7 +62,7 @@ function Features() {
 									</div>
 									<div className="icon-content">
 										<h4 className="dlab-tilte text-capitalize">Clothes Distribution</h4>
-										<p> Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</p>
+										<p>We also provide a clothes distribution program to help people with basic needs like clothes for a better life.</p>
 									</div>
 								</div>
 							</div>

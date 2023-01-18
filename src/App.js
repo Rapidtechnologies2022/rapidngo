@@ -13,6 +13,8 @@ import Services from './Components/Pages/Services';
 import Float from './Components/floatIcons/Float';
 import Volunteers from './Components/Pages/Volunteers';
 import Images from './Components/Pages/Images';
+import Privacy from './Components/Pages/privacy';
+import Terms from './Components/Pages/Terms';
 import Videos from './Components/Pages/Videos';
 import Donate from './Components/Pages/Donate';
 import SuccessPage from './Components/Pages/SuccessPage';
@@ -31,6 +33,8 @@ function App() {
             <Route path="/services" element={<Services />} />
             <Route path="/service/details" element={<ServiceDetails />} />
             <Route path="/volunteer" element={<Volunteers />} />
+          <Route path='/privacy' element={<Privacy/>}/>
+          <Route path='Terms' element={<Terms/>}/>
             <Route path="/blogs" element={<Blogs />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/images" element={<Images />} />

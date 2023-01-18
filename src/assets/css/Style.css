@@ -11617,7 +11617,7 @@ a.active {
 b,
 strong,
 .strong {
-  font-weight: 500;
+  font-weight:800;
   color: #000;
 }
 
@@ -22996,4 +22996,25 @@ footer .widget_getintuch ul li i {
   letter-spacing: 1px;
   color: var(--bg-color-e74);
 
+}
+/* privay css */
+.policy_col {
+  position: relative;
+  justify-content: center;
+  text-align: center;
+}
+
+.policy_col h6 {
+ /*  line-height: 24px; */
+  /* letter-spacing: 1px;
+  color:red; */
+  
+}
+
+.policy_col_text {
+  text-align: justify;
+ /*  letter-spacing: 1px; */
+  margin-top: 15px;
+  /* line-height: 20px; */
+  text-align: justify !important;
 }
