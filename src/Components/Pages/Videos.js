@@ -7,7 +7,7 @@ import SEO from '../SEO/SEO'
 function Videos() {
     return (
         <>
-            <SEO title="Veni Foundation || Blogs" />
+            <SEO title="Veni Foundation || Gallery" />
             <Header />
             <BreadCrumb mainTitle="Gallery" title="Home" text="Videos" img="/images/banner/bnr1.jpg" />
             <Footer />

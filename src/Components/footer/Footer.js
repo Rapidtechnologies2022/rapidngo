@@ -29,7 +29,7 @@ function Footer() {
                                 <div className="col-xl-3 col-md-4 col-sm-6">
                                     <div className="icon-bx-wraper left m-b10">
                                         <div className="icon-lg">
-                                            <a href="javascript:void(0);" className="icon-cell">
+                                            <a rel="noreferrer" href="javascript:void(0);" className="icon-cell">
                                                 <i className="flaticon-location"></i>
                                             </a>
                                         </div>
@@ -44,13 +44,13 @@ function Footer() {
                             <div className="col-xl-3 col-lg-4 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                                 <div className="widget widget_about">
                                     <h5 className="footer-title">About Us</h5>
-                                    <p> Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web. </p>
+                                    <p> Veni Foundation is a non-profit organization dedicated to improving the lives of people in need. </p>
                                     <div className="dlab-social-icon">
                                         <ul>
-                                            <li><a className="fa fa-facebook" href="https://en-gb.facebook.com/" target="_blank"></a></li>
-                                            <li><a className="fa fa-instagram" href="https://instagram.com/venifoundation9?igshid=OGQ2MjdiOTE=" target="_blank"></a></li>
-                                            <li><a className="fa fa-twitter" href="https://twitter.com/" target="_blank"></a></li>
-                                            <li><a className="fa fa-youtube-play" href="https://www.youtube.com/channel/UCypX0xDybghgFjZBP9SS6Sw/" target="_blank"></a></li>
+                                            <li><a className="fa fa-facebook" href="https://www.facebook.com/profile.php?id=100089384897499" target="_blank" rel="noreferrer"></a></li>
+                                            <li><a className="fa fa-instagram" href="https://instagram.com/venifoundation9?igshid=OGQ2MjdiOTE=" target="_blank" rel="noreferrer"></a></li>
+                                            <li><a className="fa fa-twitter" href="https://twitter.com/venifoundation" target="_blank" rel="noreferrer"></a></li>
+                                            <li><a className="fa fa-youtube-play" href="https://www.youtube.com/channel/UCypX0xDybghgFjZBP9SS6Sw/" target="_blank" rel="noreferrer"></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -84,8 +84,8 @@ function Footer() {
                                     <ul>
                                         <li><Link to="/contact">Contact</Link></li>
                                         <li><Link to="/volunteer">Volunteers</Link></li>
-                                        <li><Link to="/privacy">privacy</Link></li>
-                                        <li><a href="/Terms">Terms & Conditions</a></li>
+                                        <li><Link to="/privacy">Privacy</Link></li>
+                                        <li><Link to="/Terms">Terms & Conditions</Link></li>
                                     </ul>
                                 </div>
                             </div>

@@ -24,12 +24,12 @@ function AboutOne() {
                             </div>
                             <p >Veni Foundation is a non-profit organization dedicated to improving the lives of people in need. We believe that access to essential resources, such as food, medicine, education, and clean water, can change everything for a person. Our mission is to provide these resources to those who need them the most, aiming to improve the community's overall health and well-being.</p>
                             <div className="row">
-                                <div className="col-lg-6">
+                                <div className="col-lg-12">
                                     <ul className="list-arrow primary">
-                                        <li>We have Experience Team.</li>
-                                        <li>We are Reliable.</li>
-                                        <li>We deliver On Time.</li>
-                                        <li>We are cost Effective.</li>
+                                        <li>We strive to empower and uplift the lives of those in need.</li>
+                                        <li>We work tirelessly to provide necessities and resources to underprivileged communities.</li>
+                                        <li>Every individual deserves equal access to opportunities and resources.</li>
+                                        <li>We are committed to positively impacting the lives of those we serve.</li>
                                     </ul>
                                 </div>
                             </div>

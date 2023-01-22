@@ -25,7 +25,7 @@ function HomeService() {
 								<div className="wraper-effect"></div>
 								<div className="icon-content">
 									<h4 className="dlab-title m-b15">Food Donation</h4>
-									<p>We create highly polished IOS & Android apps for startups and enterprise clients. We also know a thing or two about branding, websites, and user acquisition.</p>
+									<p>Veni Foundation also provides food donations to the poor, homeless, and elderly to help reduce hunger and food insecurity in their communities. The food donation program helps provide healthy and nutritious meals to those struggling to make ends meet.</p>
 								</div>
 							</div>
 						</div>
@@ -53,7 +53,7 @@ function HomeService() {
 								<div className="wraper-effect"></div>
 								<div className="icon-content">
 									<h4 className="dlab-title m-b15">Medical Support</h4>
-									<p>Are you looking for a fresh new digital agency, who treats your business like its own, looks to continually improve results, has proven experience running digital campaigns for brands (big and small) for over a decade.</p>
+									<p>The NGO also provides medical support by setting up health clinics and providing access to medical care, particularly in remote and underserved areas. Medical support provided by the foundation helps to improve the overall health and well-being of the communities they serve.</p>
 								</div>
 							</div>
 						</div>
@@ -67,7 +67,7 @@ function HomeService() {
 								<div className="wraper-effect"></div>
 								<div className="icon-content">
 									<h4 className="dlab-title m-b15">Blood Donation</h4>
-									<p>An IT consultant works in partnership with clients, advising them how to use information technology in order to meet their business objectives or overcome problems. They work to improve the structure and efficiency of IT systems in various organisations.</p>
+									<p>Veni Foundation, conducting many charitable and social activities, like Blood Donation Camps, Medical Support for poor people. As we all know, Blood cannot be generated, but it can only be replaced by generous donors.</p>
 								</div>
 							</div>
 						</div>
@@ -81,7 +81,7 @@ function HomeService() {
 								<div className="wraper-effect"></div>
 								<div className="icon-content">
 									<h4 className="dlab-title m-b15">Education Support</h4>
-									<p>What are the options available, manage it yourself or ask a supplier to do it for you. Ensuring the right strategy is in place that fits the goals of your organisation.</p>
+									<p>The foundation provides educational opportunities for children in underprivileged communities, helping to break the cycle of poverty through access to quality education. By providing children with quality education, the foundation helps to build a brighter future for the communities they serve.</p>
 								</div>
 							</div>
 						</div>

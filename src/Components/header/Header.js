@@ -26,7 +26,7 @@ function Header() {
                             {/* <!-- Extra Nav --> */}
                             <div className="extra-nav">
                                 <div className="extra-cell">
-                                    <Link to="/donate"><a className="btn btn-corner" style={{backgroundColor:"#0d4470", color:"#fff"}}><i className="fa fa-angle-right m-r10"></i>Donate Now</a></Link>
+                                    <Link to="/donate"><a className="btn btn-corner" style={{ backgroundColor: "#0d4470", color: "#fff" }}><i className="fa fa-angle-right m-r10"></i>Donate Now</a></Link>
                                 </div>
                             </div>
                             <div className={`header-nav navbar-collapse collapse justify-content-end ${show ? "show" : ""}`} id="navbarNavDropdown">
@@ -53,10 +53,9 @@ function Header() {
                                 </ul>
                                 <div className="dlab-social-icon">
                                     <ul>
-                                        <a href="https://en-gb.facebook.com/" target="_blank"><a className="fa fa-facebook"></a></a>
-                                        <a href="https://twitter.com/login?lang=en" target="_blank"><a className="fa fa-twitter"></a></a>
-                                        <a href="https://en-gb.facebook.com/" target="_blank"><a className="fa fa-facebook"></a></a>
-                                        <a href="https://www.instagram.com/" target="_blank"><a className="fa fa-instagram"></a></a>
+                                        <a href="https://www.facebook.com/profile.php?id=100089384897499" target="_blank"><a className="fa fa-facebook"></a></a>
+                                        <a href="https://twitter.com/venifoundation" target="_blank"><a className="fa fa-twitter"></a></a>
+                                        <a href="https://instagram.com/venifoundation9?igshid=OGQ2MjdiOTE=" target="_blank"><a className="fa fa-instagram"></a></a>
                                     </ul>
                                 </div>
                             </div>
