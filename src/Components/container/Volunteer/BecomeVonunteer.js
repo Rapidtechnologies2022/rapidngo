@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { useFormik } from 'formik';
 import * as yup from 'yup';
 import axios from "axios"
@@ -73,6 +73,19 @@ function BecomeVonunteer() {
 
         },
     });
+
+    useEffect(() => {
+        axios({
+            url: 'https://www.actionforms.io/e/r/volunteer',
+            method: 'GET',
+        })
+            .then((res) => {
+                console.log(res)
+            })
+            .catch((err) => {
+                console.log(err)
+            })
+    }, [])
 
     return (
         <section style={{ "backgroundImage": "url(images/background/bg15.png)", "backgroundSize": "contain", "backgroundPosition": "center right", "background-color": "#e0f8ff", "backgroundRepeat": "no-repeat" }}>
