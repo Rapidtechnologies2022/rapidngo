@@ -9,6 +9,7 @@ import Footer from '../footer/Footer'
 import Header from '../header/Header'
 import SEO from '../SEO/SEO'
 import Slide from '../slide/Slide'
+import Gomata from '../container/homeContainer/Gomata'
 
 function HomePage() {
     return (
@@ -16,11 +17,12 @@ function HomePage() {
             <SEO title="Veni Foundations || Home" />
             <Header />
             <Slide />
-          {/*   <Client /> */}
+            {/*   <Client /> */}
             <HomeAbout />
             <HomeService />
-            <Helping/>
+            <Helping />
             <Newsletter />
+            <Gomata />
             <Features />
             <Footer />
         </>
